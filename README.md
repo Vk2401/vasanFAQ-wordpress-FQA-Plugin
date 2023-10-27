@@ -14,7 +14,7 @@ The **VasanFAQ** WordPress plugin is a versatile tool for adding frequently aske
 
 To install the VasanFAQ plugin on your WordPress site, follow these steps:
 
-1. Download the latest release from the [**GitHub repository**](https://github.com/Vk2401/vasanFAQ-wordpress-FQA-Plugin.git).
+1. Download the latest release from the [**GitHub repository**](https://github.com/Vk2401/vasanFAQ-wordpress-FQA-Plugin.git) or download from google drive [**Drive LINK**](https://drive.google.com/file/d/1rUDqLweaZi4xrZdoSvArfl3A1FZd5Jpj/view?usp=drive_link).
 2. Upload the plugin files to the `/wp-content/plugins/vasanFAQ` directory or install it directly from the WordPress Plugin Repository.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
