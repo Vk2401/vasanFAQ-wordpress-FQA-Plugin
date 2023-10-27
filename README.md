@@ -36,7 +36,7 @@ VasanFAQ includes a live search feature, allowing users to find answers quickly 
 
 ## Support 🤝
 
-For any questions, issues, or feature requests, please visit our [**GitHub repository**](https://github.com/Vk2401/vasanFAQ-wordpress-FQA-Plugin.git) or reach out to us via email at support@yourwebsite.com.
+For any questions, issues, or feature requests, please visit our [**GitHub repository**](https://github.com/Vk2401/vasanFAQ-wordpress-FQA-Plugin.git).
 
 
 ## License 📜
